@@ -1,7 +1,7 @@
 # Howdy hey!
 - 👋 I’m Dan / @Engine82
-- 👀 I’m interested in everything related to code - it's all fun
-- 🌱 I’m currently learning Python, more specifically how to code more pythonically
+- 👀 I’m interested in everything related to code - it's all fun and empowering
+- 🌱 I’m currently learning JavaScript and how to code more pythonically
 - 🎓 I'm almost done with [Harvard's cs50](https://cs50.harvard.edu/x/2023/)
 ---
 - :fire_engine: I work as a professional firefighter
