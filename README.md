@@ -1,4 +1,4 @@
-# Howdy hey!
+# Hi
 - 👋 I’m Daniel / @Engine82
 - 👀 I’m interested in everything related to computers it's all fun and exciting
 <!-- - 🌱 I’m currently learning JavaScript and stregthening my frontend skills
