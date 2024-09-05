@@ -1,6 +1,6 @@
-# Hi
+# Hi there
 - 👋 I’m Daniel / @Engine82
-- 👀 I’m interested in everything related to computers it's all fun and exciting
+- 👀 I’m interested in everything related to coding; it's all fun and exciting
 <!-- - 🌱 I’m currently learning JavaScript and stregthening my frontend skills
 - 📆 My current project is [WatchOffice](https://github.com/Engine82/WatchOffice), a web app to automate filling overtime shifts
 --- -->
