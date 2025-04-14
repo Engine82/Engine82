@@ -1,7 +1,7 @@
-# Hi there
-- 👋 I’m Daniel / @Engine82
+# Hello,
+- 👋 I’m Daniel
 - 👀 I’m interested in everything related to coding; it's all fun and exciting
-- 🌱 I'm currently working on a post-bacc in CS at Tufts
+- 🌱 I'm currently working on a post-bacc in Computer Science at Tufts University
 - 🎓 I have completed [Harvard's cs50](https://cs50.harvard.edu/x/2023/)
 <!-- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
