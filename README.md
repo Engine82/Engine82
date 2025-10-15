@@ -1,7 +1,7 @@
 # Hello,
-- 👋 I’m Daniel
-- 👀 I am particularly interested in the design of algorithms
-- 🎓 I'm currently working on a post-bacc in Computer Science at Tufts University
+- 👋 My name is Daniel
+- 👀 I am particularly interested in algorithm design
+- 🎓 I am currently working on a Post-Bacc Certificate in Computer Science at Tufts University
 - 🎓 I have completed [Harvard's cs50](https://cs50.harvard.edu/x/2023/)
 
 <!--
