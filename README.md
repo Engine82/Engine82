@@ -1,6 +1,6 @@
 # Hello,
 - 👋 My name is Daniel
-- 👀 I am particularly interested in algorithm design
+- 👀 I am particularly interested in low level programming and algorithm design
 - 📚 I am currently working on a M.S. in Computer Science at Tufts University
 - 🎓 I have a Post-Bacc in CS from Tufts University and a B.S. in Biochemistry fron the University of New Hampshire
 - 🌱 I started my coding journey with [Harvard's cs50](https://cs50.harvard.edu/x/2023/)
